@@ -12,5 +12,6 @@ int main()
     ft_putchar('e');
     ft_putchar('l');
     ft_putchar('\n');
+     ft_putchar(65);
     return 0;
 }
